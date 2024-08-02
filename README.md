@@ -1,7 +1,3 @@
-Certainly! Here's a description for a "Stone, Paper, Scissors" game project made with HTML, CSS, and JavaScript that you can use for GitHub:
-
----
-
 # Stone, Paper, Scissors Game
 
 A classic Stone, Paper, Scissors game implemented using HTML, CSS, and JavaScript. This project provides a fun, interactive way to play the popular hand game against the computer. 
